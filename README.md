@@ -7,7 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Laravel API Integration for Flutter Frontend
+This guide outlines how to integrate a Laravel API with a Flutter frontend for the Property Management System. The API is responsible for managing the data, while Flutter handles the frontend interface.
+
+## Table of Contents
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
